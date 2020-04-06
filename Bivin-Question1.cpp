@@ -45,4 +45,4 @@ int getFindex(char string[],char c)//three changes:added char data type for firs
 }
 		
 }
-/*total 16 changes as above*/
+/*total 18 changes as above*/
